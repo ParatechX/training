@@ -11,7 +11,7 @@
 */
 'use strict';
 
-const helper = require("./helper")
+const helper = require("../library/helper")
 
 /**
  * a readable way, but fails for some reason on test# 23
